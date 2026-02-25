@@ -537,6 +537,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   luz: {fileID: 1748537229}
+  camara1: {fileID: 1930730795}
+  camara2: {fileID: 2131630013}
 --- !u!1 &1595283968
 GameObject:
   m_ObjectHideFlags: 0
@@ -669,6 +671,7 @@ GameObject:
   - component: {fileID: 1748537232}
   - component: {fileID: 1748537231}
   - component: {fileID: 1748537230}
+  - component: {fileID: 1748537233}
   m_Layer: 0
   m_Name: Spot Light
   m_TagString: Untagged
@@ -779,6 +782,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!114 &1748537233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748537229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b8db302880f344a97c4b3b6ce8fd36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flecha: {fileID: 815173326}
 --- !u!1 &1891529887
 GameObject:
   m_ObjectHideFlags: 0
