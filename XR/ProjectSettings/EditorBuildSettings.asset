@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Ibai Gonzalez Elorza/Scenes/dia_3_2026.unity
+    guid: 6ddede98d60d70242a3c1d5ef3fc48eb
+  - enabled: 1
+    path: Assets/Ibai Gonzalez Elorza/Scenes/Class.unity
+    guid: 6c3ce5218a24a464ebecca3aac43d77f
+  - enabled: 1
+    path: Assets/Ibai Gonzalez Elorza/Scenes/practica3escena1.unity
+    guid: 2f7a2892811435541a430ae7a229b71f
+  - enabled: 1
+    path: Assets/Ibai Gonzalez Elorza/Scenes/Practica3Escena2.unity
+    guid: 2b8e2b4479319ed449f4a33d72cf20be
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
